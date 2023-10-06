@@ -1,1 +1,1 @@
-test mkr amsda
+amsda
